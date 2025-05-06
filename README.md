@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/github/v/release/anduril/lattice-sdk-cpp)](https://github.com/anduril/lattice-sdk-cpp/releases)
 
-The official [Anduril](https://www.anduril.com/) Lattice SDK for C++, [forked by Cydonis Heavy Industries, (c.H.I), Ltd.](https://www.cydonis.co.uk)
+The official [Anduril](https://www.anduril.com/) Lattice SDK for C++, [forked by Cydonis Heavy Industries, (C.H.I), Ltd.](https://www.cydonis.co.uk)
 
 ## Documentation
 
