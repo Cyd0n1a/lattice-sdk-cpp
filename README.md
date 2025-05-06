@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/github/v/release/anduril/lattice-sdk-cpp)](https://github.com/anduril/lattice-sdk-cpp/releases)
 
-The official [Anduril](https://www.anduril.com/) Lattice SDK for C++.
+The official [Anduril](https://www.anduril.com/) Lattice SDK for C++, [forked by Cydonis Heavy Industries, (c.H.I), Ltd.](https://www.cydonis.co.uk)
 
 ## Documentation
 
@@ -51,4 +51,4 @@ target_link_libraries(sample_app lattice-sdk-cpp)
 
 ## Support
 
-For support with this library please reach out to your Anduril representative. 
+For support with this library please [reach out and touch(); faith.](https://www.youtube.com/watch?v=u1xrNaTO1bI)
