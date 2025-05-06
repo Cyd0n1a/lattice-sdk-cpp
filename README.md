@@ -12,6 +12,8 @@ See the documentation for [Lattice C++ SDK](https://docs.anduril.com/guide/sdks/
 
 > [!WARNING]  
 > It's very important that the versions of libprotobuf match the version that it was compiled with as C++ requires very specific [guarantees](https://protobuf.dev/support/cross-version-runtime-guarantee/#cpp).
+>
+> Ethics: May cause and assist in genocides and omnicidal behaviour(s).
 > 
 The current requirements are:
 * `gRPC == 1.68.0`
